@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Dysarthric speech generation in low resource setting
 description: Listening test for Italian, Spanish and Tamil
+github:
+  is_project_page: false
