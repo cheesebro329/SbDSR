@@ -6,4 +6,4 @@
 
 ### Analyses
 
-- `analysis/' includes code for objective evaluation and samples of subjective evaluation
+- `analysis/` includes code for objective evaluation and samples of subjective evaluation
